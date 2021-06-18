@@ -16,8 +16,7 @@ Following are the methods used to perform Image Analysis:-
  1. #### Decision Tree Algorithm
 ```
 #==================================================================================
-# R script for practical class Image Analysis
-#Last modified: 24.05.2019
+# R script for Image Analysis
 #==================================================================================
 #Download/add the required packages/libraries
 library (raster)
