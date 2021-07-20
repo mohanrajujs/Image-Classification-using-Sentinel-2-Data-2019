@@ -1,4 +1,4 @@
-# Image-Classification-using-Sentinel-2-Data-2019
+# Image-Classification-using-Sentinel-2 | 2019
 ### Aim
 To develop and apply a chain of image filtering, segmentation and classification operations along with developing a classification model using convolution neural netwok (CNN). The exercise also explore various image filtering approaches that includes setting the correct parameters & finally reflect on the results and mention the current limitations of the method used.
 
